@@ -146,7 +146,7 @@ def Fecho_Transitivo(g):
     v = int(input("Vértice para calcular o fecho transitivo: "))
     # O fecho transitivo direto são todos os vértices alcançáveis a partir de v
     alcancaveis = BFS(g, v)
-    fecho = [i for i, v in enumerate(alcancaveis) if val]
+    fecho = [i for i, v in enumerate(alcancaveis) if v]
     print(f"Fecho Transitivo Direto do vértice {v}: {fecho}")
 
 def Main():
