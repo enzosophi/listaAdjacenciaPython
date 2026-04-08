@@ -2,8 +2,8 @@
 
 ## 👨‍💻 Integrantes
 
-* Enzo
-* Arthur Silva Torres
+* Enzo Pinheiro de Oliveira - 10434443
+* Arthur Silva Torres - 10434401
 
 ---
 
@@ -107,8 +107,6 @@ O código está organizado em funções, cada uma responsável por uma operaçã
 * Calcula o **fecho transitivo direto** de um vértice:
 
   * Todos os vértices alcançáveis a partir dele
-
-⚠️ Observação: Há um pequeno erro na variável `val` que deve ser corrigido para `v` ou outro nome consistente.
 
 ---
 
